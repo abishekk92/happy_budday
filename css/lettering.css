@@ -41,9 +41,9 @@ h1 span:hover {
 	-webkit-transform:scale(1.1); 
 }
 
-.description { 
+.poem { 
 	padding:10px 0 30px;
-	font:13px "Molengo", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font:18px "Molengo", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-shadow:#666 1px 1px 0;
 	display:block;
 }
