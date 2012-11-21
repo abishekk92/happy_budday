@@ -11,21 +11,6 @@ body {
 	background:-moz-radial-gradient(center, #7f928a, #45504b);
 	background:-webkit-gradient(radial, center center, 120, center center, 800, from(#7f928a), to(#45504b));
 }
-
-a { 
-	color:#eee;
-	font-weight:bold;
-}
-
-a:hover { 
-	color:#fff;
-}
-
-a:active {
-	position:relative;
-	top:1px;
-}
-
 #content { 
 	text-align:center;
 	width:600px;
@@ -61,20 +46,6 @@ h1 span:hover {
 	font:13px "Molengo", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-shadow:#666 1px 1px 0;
 	display:block;
-}
-
-#logo { 
-	margin:0 auto;
-	text-indent:-9999px;
-	display:block;
-	width:50px;
-	height:50px;
-	background:transparent url(logo.png) 0 0 no-repeat;
-	opacity:0.3;
-}
-
-#logo:hover {
-	opacity:1.0;
 }
 
 .char1 { font-size:120px; position:relative; top:10px; left:-10px; }
